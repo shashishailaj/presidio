@@ -9,7 +9,6 @@ pytest -v ${E2E_TESTS_DIR}
 deactivate
 exit 0
 
-
 :WINDOWS
 
 @echo off
